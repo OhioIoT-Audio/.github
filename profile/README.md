@@ -1,11 +1,13 @@
-# OhioIoT Voice Control Examples
+# OhioIoT Voice Controls<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
+#### [(back to OhioIoT GitHub Page)](https://github.com/OhioIoT-Examples)
 
+These code bases were created and explained in the [TBD] playlist on the OhioIoT YouTube channel.  Below are the videos and code examples by topic:
 
-The code samples for the varoius YouTube videos are held in different GitHub "organizations" to provide some separation.  They can be found below.
-
-- [OhioIoT-ESP32-WiFi-Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples)
-- [OhioIoT-ESP32-Provisioning-Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples)
-- [OhioIoT-MQTT-Examples](https://github.com/OhioIoT-MQTT-Examples)
+| # | Topic |YouTube|GitHub|
+|---|-------|-------|------|
+| 1 | [TBD] | [TBD] | [TBD] |
+| 2 | [TBD] | [TBD] | [TBD] |
+| 3 | [TBD]l | [TBD] | [TBD] |
 
 
 <br />

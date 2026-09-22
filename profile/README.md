@@ -8,9 +8,10 @@ The code samples for the varoius YouTube videos are held in different GitHub "or
 - [OhioIoT-MQTT-Examples](https://github.com/OhioIoT-MQTT-Examples)
 
 
-Also, feel free to stop by the main Github page, the website, or the YouTube Channel:
+<br />
+Learn more about OhioIoT:
 
-- [OhioIoT Examples](https://github.com/OhioIoT-Examples) - all the code you've seen in these videos
-- [OhioIoT Homepage](https://ohioiot.com) - a paid service providing a remote MQTT connection, with tools to help you develop your IoT projects
-- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - agenda free tutorials on building IoT systems
+- [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda free tutorials showing you how to get started in IoT
+- [OhioIoT GitHub Index](https://github.com/OhioIoT-Examples) - The central index of code examples available on GitHub
 

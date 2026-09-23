@@ -5,9 +5,9 @@ These videos/git repos are coming at the end of September.  Give me a week or tw
 
 | # | Topic |YouTube|GitHub|
 |---|-------|-------|------|
-| 1 | [TBD] | [TBD] | [TBD] |
-| 2 | [TBD] | [TBD] | [TBD] |
-| 3 | [TBD]l | [TBD] | [TBD] |
+| 1 | Offline Voice Control | [TBD] | [TBD] |
+| 2 | Control Your System with MQTT | [TBD] | [TBD] |
+| 3 | Get Audio Response to your Commands | [TBD] | [TBD] |
 
 
 <br />

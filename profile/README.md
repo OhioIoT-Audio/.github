@@ -1,9 +1,7 @@
 # OhioIoT Voice Controls<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 #### [(back to OhioIoT GitHub Page)](https://github.com/OhioIoT-Examples)
 
-## Sorry for loading an empty page - I'm going to be posting these videos at the end of September - just getting the infrastructure in place ahead of time
-
-These code bases were created and explained in the [TBD] playlist on the OhioIoT YouTube channel.  Below are the videos and code examples by topic:
+These videos/git repos are coming at the end of September.  Give me a week or two:
 
 | # | Topic |YouTube|GitHub|
 |---|-------|-------|------|

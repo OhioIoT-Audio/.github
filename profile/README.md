@@ -6,7 +6,7 @@ These videos/git repos are coming at the end of September.  Give me a week or tw
 | # | Topic |YouTube|GitHub|
 |---|-------|-------|------|
 | 1 | Offline Voice Control | [TBD] | [Basic](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener) |
-| 1 |  | [TBD] | [With Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker) |
+| 1 |  |  | [With Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker) |
 | 2 | Control Your System with MQTT | [TBD] | [TBD] |
 | 3 | Get Audio Response to your Commands | [TBD] | [TBD] |
 

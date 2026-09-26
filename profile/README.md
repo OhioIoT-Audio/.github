@@ -9,6 +9,7 @@ These videos/git repos are coming at the end of September.  Give me a week or tw
 |  |  |  | [Code Example w/Docker](https://github.com/OhioIoT-Voice-Controls/Vosk-Listener-With-Docker) |
 | 2 | Control Your System with MQTT | [TBD] | [TBD] |
 | 3 | Get Audio Response to your Commands | [TBD] | [TBD] |
+| 4 | Spin Up Your Own Voice Control | [TBD] | [TBD] |
 
 
 <br />
